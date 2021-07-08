@@ -25,4 +25,4 @@ new Vue ({
            
        },
    }
-});//chiude la vue
+});
